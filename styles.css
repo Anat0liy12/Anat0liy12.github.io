@@ -1,0 +1,53 @@
+.head{
+    text-align: center;
+    padding: 80px;
+}
+.body{
+    color: white;
+    background-image: url(http://pvsm.ru/images/2015/01/13/tryohmernyi-fon-dlya-saita-v-realnom-vremeni-na-JavaScript-pri-pomoshi-three-js-2.png);
+/* background-image: url(https://go4.imgsmail.ru/imgpreview?key=69d6d96f74edb125&mb=imgdb_preview_40009&a=1); */
+    /* background-image: url(https://bnetcmsus-a.akamaihd.net/cms/carousel_header/YYFJAEYVDXJQ1538090707313.png); */
+text-align: center;
+}
+.block {
+    padding: 165px;
+    padding-top: 117px;
+    color: #fff;
+    text-align: center;
+    background-image: url(http://img0.reactor.cc/pics/post/Starcraft-%D0%98%D0%B3%D1%80%D1%8B-%D0%B7%D0%B8%D0%BB%D0%BE%D1%82-Protoss-2694562.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 600px;
+}
+.content{
+    text-align: center;
+    display: grid;
+    padding: 20px;
+}
+.item1{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    padding-right: 50px;
+}
+.item2{
+    grid-column-start: 2;
+    grid-column-end: 4;
+padding-top: 60px;
+}
+.a{
+    font-size: 30px;
+}
+.link{
+    padding-bottom: 10px;
+    border: 3px solid ; padding: 10px;
+    
+}
+.block2{
+    padding: 165px;
+    padding-top: 117px;
+    color: #fff;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 600px;
+}
